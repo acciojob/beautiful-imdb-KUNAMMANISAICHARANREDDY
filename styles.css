@@ -1,13 +1,13 @@
-.moviePic img{
+.moviePic{
 	width:100%;
 	height:100%;
 	opacity:80%;
 }
 
-.movieDetail p{
+.movieDetail{
 	position:relative;
 	top:20px;
 	width:500px;
-	text-align:right;
+	text-align:left;
 	font-size:900;
 }
