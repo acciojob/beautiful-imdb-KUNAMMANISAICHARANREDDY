@@ -1,13 +1,14 @@
-.moviePic{
-	width:100%;
-	height:100%;
-	opacity:80%;
+.moviePic img
+{
+	opacity:1;
+	width:400px;
+	height:500px;
 }
-
-.movieDetail{
+.movieDetail
+{
 	position:relative;
 	top:20px;
-	width:500px;
-	text-align:left;
-	font-size:900;
+	width:80%;
+	text-align:justify;
+	font-size:larger;
 }
